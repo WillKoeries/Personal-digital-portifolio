@@ -77,7 +77,7 @@ I bring a strong foundation in **object-oriented programming**, **system design*
 
 ## 📝 Reflections
 
-### Reflection on Coding in Markdown (STAR Method)
+### Reflection on Coding in Markdown 
 
 - **Situation:** For my PRP370S assessment, I needed to create a digital portfolio using GitHub and Markdown.
 - **Task:** I had to learn Markdown syntax and format my CV professionally without using Word or HTML.
@@ -86,7 +86,7 @@ I bring a strong foundation in **object-oriented programming**, **system design*
 
 ---
 
-### Reflection on Mock Interview Video (STAR Method)
+### Reflection on Mock Interview Video 
 
 - **Situation:** As part of my PRP370S assessment, I needed to record a mock interview video to demonstrate my professional communication skills.
 - **Task:** I had to prepare answers for common interview questions, dress professionally, and record myself speaking clearly about my skills and experience.
@@ -95,7 +95,7 @@ I bring a strong foundation in **object-oriented programming**, **system design*
 
 ---
 
-### Reflection on Using GitHub Pages (STAR Method)
+### Reflection on Using GitHub Pages 
 
 - **Situation:** I needed to publish my digital portfolio online so my lecturer could access it for marking.
 - **Task:** I had to learn how to use GitHub Pages to turn my repository into a live website.
